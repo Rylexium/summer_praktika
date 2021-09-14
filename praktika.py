@@ -1,6 +1,6 @@
 import kivy
 from kivy.lang import Builder
-kivy.require('1.0.7')
+kivy.require('2.0.0')
 
 from kivy.app import App
 kvfile = Builder.load_string("""
